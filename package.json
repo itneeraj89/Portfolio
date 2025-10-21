@@ -1,28 +1,9 @@
-Last login: Mon Oct 20 22:33:30 on ttys000
-neerajsharma@Mac ~ % rm package.json
-
-rm: package.json: No such file or directory
-neerajsharma@Mac ~ % cd ~/Desktop/Portfolio
-ls
-
-components		package.json.save	public
-package.json		pages			README.md
-neerajsharma@Mac Portfolio % rm package.json
-
-neerajsharma@Mac Portfolio % ls
-
-components		pages			README.md
-package.json.save	public
-neerajsharma@Mac Portfolio % nano package.json
 
 
 
 
 
 
-
-
-  UW PICO 5.09                   File: package.json                   Modified  
 
 {
   "name": "portfolio",
@@ -38,11 +19,10 @@ neerajsharma@Mac Portfolio % nano package.json
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   }
-}
+ }
 
 
 
 
 
-^G Get Help  ^O WriteOut  ^R Read File ^Y Prev Pg   ^K Cut Text  ^C Cur Pos   
-^X Exit      ^J Justify   ^W Where is  ^V Next Pg   ^U UnCut Text^T To Spell  
+
